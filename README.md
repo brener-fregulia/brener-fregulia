@@ -30,7 +30,7 @@ My current focus is to keep improving as a backend developer, especially in proj
 
 **Languages**
 
-Delphi, VB.NET, C#, Java, Python
+Delphi, VB.NET, Python, Ruby, JavaScript, TypeScript, PHP
 
 **Databases**
 
@@ -60,7 +60,7 @@ Scrum, Kanban, agile development, technical documentation, problem solving
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=brener-fregulia&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=weekly&sections=total%2Ccurrent%2Clongest" alt="GitHub streak stats" />
+    <img src="https://streak-stats.demolab.com?user=brener-fregulia&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=daily&sections=total%2Ccurrent%2Clongest" alt="GitHub streak stats" />
   </a>
 </p>
 
@@ -69,5 +69,5 @@ Scrum, Kanban, agile development, technical documentation, problem solving
 ## 3D contribution graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
