@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brener-fregulia">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brener-renan-duemes-fregulia-71325520a/">LinkedIn</a>
+  ·
+  <a href="https://github.com/brener-fregulia?tab=repositories">Repositories</a>
 </p>
 
 ---
@@ -34,7 +36,7 @@ Delphi, VB.NET, C#, Java, Python
 
 PostgreSQL, MySQL, SQL Server, MongoDB, Redis
 
-**Areas of interest**
+**Main interests**
 
 Backend development, database performance, data migration, system integration, legacy systems, public-sector software
 
@@ -54,9 +56,21 @@ Scrum, Kanban, agile development, technical documentation, problem solving
 
 ---
 
-## GitHub stats
+## 3D contribution graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brener-fregulia&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-fregulia&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+---
+
+## GitHub overview
+
+<p align="center">
+  <a href="https://github.com/brener-fregulia?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brener-fregulia&show_icons=true&theme=github_dark&hide_border=true" alt="Brener Fregulia GitHub stats" />
+  </a>
+  <a href="https://github.com/brener-fregulia?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-fregulia&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  </a>
 </p>
