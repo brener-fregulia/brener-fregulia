@@ -56,21 +56,18 @@ Scrum, Kanban, agile development, technical documentation, problem solving
 
 ---
 
-## 3D contribution graph
+## Contribution streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=brener-fregulia&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=weekly&sections=total%2Ccurrent%2Clongest" alt="GitHub streak stats" />
+  </a>
 </p>
 
 ---
 
-## GitHub overview
+## 3D contribution graph
 
 <p align="center">
-  <a href="https://github.com/brener-fregulia?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brener-fregulia&show_icons=true&theme=github_dark&hide_border=true" alt="Brener Fregulia GitHub stats" />
-  </a>
-  <a href="https://github.com/brener-fregulia?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brener-fregulia&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
