@@ -21,7 +21,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=daily&sections=total,current,longest
+          options: 'user=brener-fregulia&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=daily&disable_animations=true'
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 

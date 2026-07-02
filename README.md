@@ -14,29 +14,21 @@
 
 ## Contribution streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats">
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </a>
-</p>
 
 ---
 
 ## 3D contribution graph
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
 ## Contribution graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/output/pacman-contribution-graph.svg">
-</picture>
+![Pac-Man contribution graph](https://raw.githubusercontent.com/brener-fregulia/brener-fregulia/output/pacman-contribution-graph.svg)
 
 ---
 
