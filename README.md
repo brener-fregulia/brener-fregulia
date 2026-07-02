@@ -16,8 +16,8 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=brener-fregulia&theme=dark&hide_border=false&border_radius=4.5&card_width=700&mode=daily&sections=total%2Ccurrent%2Clongest" alt="GitHub streak stats" />
-  </a>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
 </p>
 
 ---
